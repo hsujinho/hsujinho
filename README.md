@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm hsujinho
 
 <!--
 **hsujinho/hsujinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## about me
+
+I'm a student of department of Computer Science from National Taiwan Normal University (NTNU). 
+I am engaged in Front-end web development and game design / development.
+Still working on strengthening the ability of developing, may come up with some useful ideas / repos to ptractice and on the same time let my life more and interesting and convenient.
+
